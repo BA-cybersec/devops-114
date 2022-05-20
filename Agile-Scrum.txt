@@ -1,4 +1,8 @@
-Agile Methodology, as the name suggests, is a set of methods and practices where software development and project management take place to deliver customer-centric products in a short development cycle known as sprints. It is an iterative approach and each iteration is specially designed to be small and manageable so that it can be delivered in a specific given period of time. Agile methodologies are open to changing requirements over time and encourage constant feedback from end-users. It is the most popular approach because, in this process, customers are also involved so that they can get updates regarding their product and also make sure whether or not they are meeting their requirements. 
+Agile Methodology, as the name suggests, is a set of methods and practices where software development and project management take place to deliver customer-centric products in a short development cycle known as sprints. 
+
+It is an iterative approach and each iteration is specially designed to be small and manageable so that it can be delivered in a specific given period of time. Agile methodologies are open to changing requirements over time and encourage constant feedback from end-users. 
+
+It is the most popular approach because, in this process, customers are also involved so that they can get updates regarding their product and also make sure whether or not they are meeting their requirements. 
 
 Agile manifesto
 
