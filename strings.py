@@ -46,9 +46,6 @@
 
 #print(f"Pi to 3  decimal place: {pi:.3f}")
 
-Name = Bijay
-
-Age = 30
 
 
 
