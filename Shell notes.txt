@@ -1,0 +1,76 @@
+Shell notes
+
+What is an operating system?
+An operating system controls the hardware of a computer
+The OS consists of bootloader, kernel, daemons, networking, shell, GUI
+and applications.
+
+CLI vs GUI?
+
+What is Shell?
+
+Type of Shell?
+Bash shell
+Powershell
+
+Computer architecture
+image.png
+
+Developer branch is for testing
+Push to main branch
+
+Benefits of Git is:
+Conflict If push at same time. Git ask which version to use.
+Modify files everyone
+
+~ list of commands ~
+
+cd to change directory
+
+mkdir to make directory
+
+touch to create, change or modify files
+
+cat to read data from the file and gives their content as output
+
+code to open files with vs code editor
+
+Rm delete files
+
+Rmdir delete directory
+
+python --version to check version of python
+
+Git status to display the state of the working directory and the staging area
+
+Git init creates a new Git repository 
+
+Add commit push monitor track version control
+
+Git commit -m will save all staged changes, along with a brief description from the user, in a “commit” to the local repository. -m option is to include message. Short description of the changes being commited
+
+Git log shows a list of all the commits made to a repository.
+
+Git remote add origin “https://github.com/BA-cybersec/eng114_devOps.git”
+
+Git push -u main used to upload local repository content to a remote repository. Main option is used to push to main
+
+Rm -rf to delete directory
+
+Git reset --hard “commit” reset the staging area and the working directory to match the most recent commit. In addition to unstaging changes, the --hard flag tells Git to overwrite all changes in the working directory
+
+Git clean –fxd removes local untracked files from the current git branch. Force removal with -f. Remove untracked directories as well with -d. This allows removing all untracked files, including build products. This can be used to create a pristine working directory to test a clean build
+
+Git checkout main switch branches to main
+
+Git checkout dev switch branches tp dev
+
+Git diff shows the differences between the files in two commits or between your current repository and a previous commit
+
+Git add . adds all modified and new (untracked) files in the current directory and all subdirectories to the staging area, thus preparing them to be included in the next git commit.
+
+Git clone primarily used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location
+
+Git merge take the independent lines of development created by git branch and integrate them into a single branch.
+
+
