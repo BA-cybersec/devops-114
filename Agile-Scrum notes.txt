@@ -116,19 +116,20 @@ image.png
 One technique is Planning poker used for estimating building.
 
 Definition of ready in Scrum
-
+ - means that stories must be immediately actionable. 
+ - The Team must be able to determine what needs to be done and the amount of work required to complete the User Story
 image.png
 
 Definition of done in scrum
-
+-  shared understanding within the Scrum Team on what it takes to make your Product Increment releasable. DONE = Releasable.
+- it's the acceptance criteria that are common to every single user story
 image.png
 
-Wireframes
-Retrospective
-Set the stage
-Gather data
-Generate insights
-Decide what to do
-Close the retro
-Team retrospective board
+Scrum Retrospective?
+- Set the stage
+- Gather data
+- Generate insights
+- Decide what to do
+- Close the retro
+- Team retrospective board
 
