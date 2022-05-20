@@ -31,3 +31,8 @@ Git add .
 Git clone
 Git merge
 cp readme.md test.md - copy content from one file to another file overwriting it.
+
+
+Python variables
+
+image.png
