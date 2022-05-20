@@ -1,0 +1,118 @@
+Agile Methodology, as the name suggests, is a set of methods and practices where software development and project management take place to deliver customer-centric products in a short development cycle known as sprints. It is an iterative approach and each iteration is specially designed to be small and manageable so that it can be delivered in a specific given period of time. Agile methodologies are open to changing requirements over time and encourage constant feedback from end-users. It is the most popular approach because, in this process, customers are also involved so that they can get updates regarding their product and also make sure whether or not they are meeting their requirements. 
+
+Agile manifesto
+
+Principle of agile?
+•	Individuals and interactions over processes and tools.
+•	Working software over comprehensive documentation.
+•	Customer collaboration over contract negotiation.
+•	Responding to change over following a plan.
+
+Types of agile?
+Kanban
+Scrum
+Lean
+Extreme programming
+crystal
+
+12 agile principles in agile manifesto
+
+What are your framework when dealing with processes? Red flag if they are not doing agile.
+
+Scrum is a team based framework to develop
+Kanban board Trello
+User stories
+
+Three pillars of scrum?
+Transparency
+Inspection
+Adaptation
+
+Scrum roles?
+Product owner
+Scrum master
+Development team
+
+Scrum team?
+Co located
+Engaged with the customers
+Self-organising
+Accountable and empowered
+Cross functional
+Features epics and user stories
+User persona
+
+What are business requirments?
+Service, function or feature that a user needs
+
+What is a user stories?
+Define your end user
+Specify what they want
+Describe the benefits
+Add acceptance criteria
+As a type of user I want goal so that reason
+Does include all the details
+Only a pointer to real requirements
+
+Acceptance criteria?
+set of predefined requirements that must be met to mark a user story complete.
+
+Epic is a large user stories – overarching goals
+
+Writing good user stories – INVEST
+Independent
+Negotiable
+Valuable
+Estimable
+
+Three C’s of user stories?
+Card - written description of the story
+Conversation - Discuss ideas with others. Lots of asking questions
+Confirmation - Work towards agreement on what to build
+
+User want to know the weather conditions/weather app built in so that their customer can check whether it’s the right time to parachute.
+User want to have a online store so that they can sell kits to their customer
+User want a events calendar (events calender app built in) so that they can show upcoming events, lesson, sales etc.
+
+As a customer I would like to be able to check the weather conditions so that I can cancel or postpone my booking 
+As a customer I would like to be able to shop online so that I can buy or hire kits
+As a customer I would be able to use paypal to pay 
+As a customer I would be able to 
+As a customer I would like to be able to access the events calendar so that I can view and book any upcoming events, view dates of sales, and the different lessons that are on offer at the parachuting school.
+
+Gherkin scenario?
+Given 
+When
+Then
+
+Given that I am on the event calendar page
+When I clicked on the calendar
+Then I should be able to access the calendar and be able to view or if possible be able to book any upcoming events, enter into competitions, look up dates of sales event and offers
+
+Given that I am on the online shop,
+And I add items to the basket using the +- button
+When I clicked on the basket tab
+Then I should be able to be what items and their quantities that I have bought or hire
+
+
+image.png
+
+One technique is Planning poker used for estimating building.
+
+Definition of ready in Scrum
+
+image.png
+
+Definition of done in scrum
+
+image.png
+
+Wireframes
+Retrospective
+Set the stage
+Gather data
+Generate insights
+Decide what to do
+Close the retro
+Team retrospective board
+
